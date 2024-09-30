@@ -1,4 +1,3 @@
-```
 #define pinLED 23
 
 void setup() {
@@ -22,4 +21,3 @@ void pisca(int vezes){
     delay(500);
   }
 }
-```
